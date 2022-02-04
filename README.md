@@ -1,1 +1,2 @@
-# mathematical-modeling
+# 数学建模
+一些与数模相关的资料。
